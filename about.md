@@ -9,7 +9,7 @@ I'm using this website/blog to write how I learn programming at my mid-30s.
 
 My programming experience:
 * High School:
-    * Some assignments of Visual Studio
+    * Some assignments of Visual Studio - maybe some math questions
 * University/Graduate school: 
     * SAS to run some testing like regression, z-test, t-test 
 * Self-Learning
