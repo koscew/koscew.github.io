@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Exploring and Seearching for Suitable Bootcamp
+title: Exploring and Searching for Suitable Bootcamp
 ---
 
 TBC
