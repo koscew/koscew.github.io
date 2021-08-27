@@ -8,7 +8,7 @@ title: Exploring and Searching for Suitable Bootcamp
 First of all, I know there is no best bootcamp, every bootcamp has their own style and strength. There are some factors to consider such as the physical locations which can affect job networking, weekly learning hours, program duration, starting dates, the cost, the syllabus and the content of income share agreement.
 
 ## Bootcamp Review Webistes
-I started to search bootcamps online and browsed a few bootcamps on the top searches to find the common bootcamp structure and the competitors and review websites that those bootcamps mentioned most to identify the top bootcamps and the reliable review websites like [SwitchUp], [Career Karma], and [Course Report]. I saw some graduates posted reviews on all three sites or two of the sites. It's still good to check all three websites. However, only [Course Report] has limited filter feature. It's really hard to find the reviews I needed among hundreds of reviews.
+I started to search bootcamps online and browsed a few bootcamps on the top searches to find the common bootcamp structure and the competitors and review websites that those bootcamps mentioned most to identify the top bootcamps and the reliable review websites like [SwitchUp], [Career Karma], and [Course Report]. I saw some graduates posted reviews on all three sites or two of the sites. It's still good to check all three websites. However, only [Course Report] had limited filter feature. It's really hard to find the reviews I needed among hundreds of reviews.
 
 ## Bootcamp Structure
 * Full-time vs. Part-time
@@ -17,9 +17,9 @@ I started to search bootcamps online and browsed a few bootcamps on the top sear
     * Most bootcamps are remote now due to the COVID-19 pandemic
 * Self-funding(various financing options) vs. Income Sharing Agreements 
     * ISA structure
-        * 1.24x-1.82x tuition of payment cap
-        * 32k-60k minimum payback threshold
-        * 36~60 months of payment period
+        * Payment cap: 1.24x-1.82x times of the tuition
+        * Minimum payback threshold: 32k-60k annual income
+        * Payment period: 36~60 months 
 
 ## Income Sharing Agreements(ISA)
 I found less and less bootcamps offered ISA. At first, I was looking for a full-time, live and online program with ISA so I wouldn't have too much financial burden. I found Galvanize as my first choice since they had a higher ISA threshold at 60K and lowest times of payments cap. I learned a lot from their free detailed prep-work materials. The wage is increasing fast now. The basic wage the market offers in my area is almost $20 per hour. Signing an ISA with a $40K threshold will only increase my financial burden. Unfortunately, Galvanize terminated their Data Science programs in July right before the cohort I planned to join. So I started to search for some self-funding bootcamps. 
