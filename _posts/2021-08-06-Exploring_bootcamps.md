@@ -22,7 +22,7 @@ I started to search bootcamps online and browsed a few bootcamps on the top sear
         * 36~60 months of payment period
 
 ## Income Sharing Agreements(ISA)
-I found less and less bootcamps offered ISA. At first, I was looking for a full-time, live and online program with ISA so I wouldn't have too much financial burden, and I found Galvanize and General Assembly. Galvanize was my first choice since they had a higher ISA threshold at 60K and lowest times of payments cap. I learned a lot from their free detailed prep-work materials. The wage is increasing fast now. The basic wage the market offers in my area is almost $20 per hour. Signing an ISA with a $40K threshold will only increase my financial burden. Unfortunately, Galvanize terminated their Data Science programs in July right before the cohort I planned to join. So I started to search for some self-funding bootcamps. 
+I found less and less bootcamps offered ISA. At first, I was looking for a full-time, live and online program with ISA so I wouldn't have too much financial burden. I found Galvanize as my first choice since they had a higher ISA threshold at 60K and lowest times of payments cap. I learned a lot from their free detailed prep-work materials. The wage is increasing fast now. The basic wage the market offers in my area is almost $20 per hour. Signing an ISA with a $40K threshold will only increase my financial burden. Unfortunately, Galvanize terminated their Data Science programs in July right before the cohort I planned to join. So I started to search for some self-funding bootcamps. 
 
 ## Admission Processes
 TBC
