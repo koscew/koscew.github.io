@@ -9,9 +9,17 @@ I'm using this website/blog to write how I learn programming at my mid-30s.
 
 My programming experience:
 * High School:
-    * Some assignments of Visual Studio - maybe some math questions
+    * Visual Studio, 2001
+        * Some math question assignments
 * University/Graduate school: 
-    * SAS to run some testing like regression, z-test, t-test 
+    * SAS, 2004
+        * Run some testing like regression, z-test, t-test 
 * Self-Learning
-    * SQL, 2014
+    * SQL, 2013 
+        * Certificate of Business Intelligence: Techniques for Decision Making with University of Washington
+        * Haven't had chance to use after the course
+    * C, 2016
+        * Completed Computer Programming on Coursera
+        * Math and logical problems
     * Python, 2021
+        * Data Science Bootcamp
