@@ -15,7 +15,7 @@ My programming experience:
     * SAS, 2004-2011
         * Run some testings like regression, z-test, t-test 
 * Self-Learning:
-    * SQL, 2013-2014 
+    * SQL, 2013-2014, 2021-? 
         * SQL Tutorial on [W3schools]
         * Certificate of Business Intelligence: Techniques for Decision Making with University of Washington
         * Haven't had chance to use after the course
