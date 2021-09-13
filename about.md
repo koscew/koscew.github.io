@@ -16,6 +16,7 @@ My programming experience:
         * Run some testings like regression, z-test, t-test 
 * Self-Learning:
     * SQL, 2013-2014 
+        * SQL Tutorial on [W3schools]
         * Certificate of Business Intelligence: Techniques for Decision Making with University of Washington
         * Haven't had chance to use after the course
     * C, 2016
@@ -26,5 +27,5 @@ My programming experience:
         * First EXE to summarize monthly report of clients from Excel data
         * Data Science Bootcamp
         
-        
+[W3school]: https://www.w3schools.com/
 [Coursera]: https://www.coursera.org/
