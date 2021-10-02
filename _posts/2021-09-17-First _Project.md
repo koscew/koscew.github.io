@@ -2,6 +2,7 @@
 layout: post
 title: My First Data Science Bootcamp Project
 ---
+
 ***
 More detail about this project: [MTA EDA Project Github Repo](https://github.com/koscew/Metis_Module1_EDA_Project)
 ***
