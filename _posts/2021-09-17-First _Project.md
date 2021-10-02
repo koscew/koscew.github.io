@@ -3,9 +3,7 @@ layout: post
 title: My First Data Science Bootcamp Project
 ---
 
-***
-More detail about this project: [MTA EDA Project Github Repo](https://github.com/koscew/Metis_Module1_EDA_Project)
-***
+###### More detail about this project: [MTA EDA Project Github Repo](https://github.com/koscew/Metis_Module1_EDA_Project)
 
 #### The Skills 
 Today, I finished my first project with Metis. This first module was about Exploratory Data Analysis (EDA). The main skills I learned were SQL, Python Pandas, Python Numpy, Python SQLAlchemy, Python Matplotlib, Python Seaborn. I also explored Python Plotly and plan to check Python Geopandas, Folium and Bokeh later by myself. 
